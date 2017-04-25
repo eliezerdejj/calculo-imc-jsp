@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Calculo IMC JSP</title>
+    <title>Calculo de IMC</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 
@@ -32,7 +32,7 @@
                             </div>
 
                             <div class="form-group">
-                                <label for="sex">Select Sex:</label>
+                                <label for="sex">Sexo:</label>
                             <select class="form-control" id="sexo" name="sexo">
                               <option>Masculino</option>
                               <option>Feminino</option>
